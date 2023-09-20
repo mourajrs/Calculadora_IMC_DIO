@@ -9,11 +9,12 @@ Programa citado acima deverá seguir descrições abaixo:
   - Double Peso
   - Double Altura
 
+- Aplicar Tratamento de exceções
+  - Tratar valores inválidos
+  
 - Função: 
   - Calcular IMC
 
-- Aplicar Tratamento de exceções
-  - Tratar valores inválidos
 - Testes de unidade
 
 - Conforme tabela abaixo realizar o cálculo e mostrar no terminal a informação sobre o IMC do usuário.
